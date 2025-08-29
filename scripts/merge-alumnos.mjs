@@ -64,7 +64,7 @@ async function cargarAlumnos() {
   const url = './data/alumnos_todos.json?v=' + Date.now();
 
   const resp = await fetch(url);
-  if (!resp.ok) throw new Error('No se pudo leer alumnos.json');
+  if (!resp.ok) throw new Error('No se pudo leer alumnos_todos.json');
   const alumnos = await resp.json();
 
   // TODO: acá llamas a tu render con "alumnos"
