@@ -58,3 +58,20 @@ async function main() {
   console.log('Escrito', OUT_FILE, 'con', out.length, 'alumnos.');
 }
 main().catch(err => { console.error(err); process.exit(1); });
+
+async function cargarAlumnos() {
+  // cache-busting para que el celu no use versión vieja
+  const url = './data/alumnos.json?v=' + Date.now();
+
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error('No se pudo leer alumnos.json');
+  const alumnos = await resp.json();
+
+  // TODO: acá llamas a tu render con "alumnos"
+  renderAlumnos(alumnos); // o el nombre de tu función
+}
+
+cargarAlumnos().catch(err => {
+  console.error(err);
+  alert('No se pudieron cargar los alumnos. Revisa la consola.');
+});
