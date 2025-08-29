@@ -61,7 +61,7 @@ main().catch(err => { console.error(err); process.exit(1); });
 
 async function cargarAlumnos() {
   // cache-busting para que el celu no use versión vieja
-  const url = './data/alumnos.json?v=' + Date.now();
+  const url = './data/alumnos_todos.json?v=' + Date.now();
 
   const resp = await fetch(url);
   if (!resp.ok) throw new Error('No se pudo leer alumnos.json');
