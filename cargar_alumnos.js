@@ -4,7 +4,7 @@
 
 async function cargarAlumnos() {
   try {
-    const url = './data/alumnos.json?v=' + Date.now();
+    const url = './data/alumnos_todos.jso?v=' + Date.now();
     const resp = await fetch(url, { cache: 'no-store' });
     if (!resp.ok) throw new Error('No se pudo leer alumnos.json');
     const alumnos = await resp.json();
@@ -25,7 +25,7 @@ async function cargarAlumnos() {
     }
   } catch (err) {
     console.error(err);
-    alert('No se pudieron cargar los alumnos (revisa la consola y la ruta de data/alumnos.json).');
+    alert('No se pudieron cargar los alumnos (revisa la consola y la ruta de data/alumnos_todos.jso).');
   }
 }
 
