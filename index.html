@@ -125,31 +125,19 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-database-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-auth-compat.js"></script>
+
   <script>
-    // 🔧 Rellena estos datos con tu proyecto Firebase
-    // Crea un proyecto en https://console.firebase.google.com/ y habilita Realtime Database (modo bloqueado).
-    // Luego copia la configuración de tu app web y pega aquí.
-    window.__FIREBASE_CONFIG__ = {
-      apiKey: "TU_API_KEY",
-      authDomain: "TU_PROJECT_ID.firebaseapp.com",
-      databaseURL: "https://TU_PROJECT_ID-default-rtdb.firebaseio.com",
-      projectId: "TU_PROJECT_ID",
-      storageBucket: "TU_PROJECT_ID.appspot.com",
-      messagingSenderId: "000000000000",
-      appId: "1:000000000000:web:xxxxxxxxxxxxxxxxxxxxxx"
-    };
-    try {
-      if (window.__FIREBASE_CONFIG__ && window.__FIREBASE_CONFIG__.apiKey !== "TU_API_KEY") {
-        const app = firebase.initializeApp(window.__FIREBASE_CONFIG__);
-        window.db = firebase.database();
-        // Autenticación anónima para reglas con auth != null
-        try { firebase.auth().signInAnonymously(); } catch(e) { console.warn('Auth anon fallo', e);}
-        console.log("Firebase listo ✅");
-      } else {
-        console.warn("Firebase no configurado. Usando almacenamiento local.");
-      }
-    } catch (e) { console.warn("Error iniciando Firebase:", e); }
-  </script>
+  window.__FIREBASE_CONFIG__ = {
+    apiKey: "AIzaSyC.....",                 // el tuyo real
+    authDomain: "ceppbo-votaciones.firebaseapp.com",
+    databaseURL: "https://ceppbo-votaciones-default-rtdb.firebaseio.com",
+    projectId: "ceppbo-votaciones",
+    storageBucket: "ceppbo-votaciones.appspot.com",
+    messagingSenderId: "123456789012",
+    appId: "1:123456789012:web:abc123def456"
+  };
+</script>
+
 
   <script src="assets/js/app.js"></script>
 
