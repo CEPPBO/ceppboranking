@@ -6,7 +6,7 @@ async function cargarAlumnos() {
   try {
     const url = './data/alumnos_todos.jso?v=' + Date.now();
     const resp = await fetch(url, { cache: 'no-store' });
-    if (!resp.ok) throw new Error('No se pudo leer alumnos.json');
+    if (!resp.ok) throw new Error('No se pudo leer alumnos_todos.jso');
     const alumnos = await resp.json();
 
     if (typeof renderAlumnos === 'function') {
