@@ -219,23 +219,22 @@ function renderProfes() {
   }
 }
 
-// === Votar ===
-function votar(profeId, delta = 1) {
-  if (HAS_DB) {
-    // Operación atómica en tiempo real
-    window.db.ref(VOTOS_PATH + '/' + profeId).transaction(cur => (cur || 0) + delta, (err, committed, snap) => {
-      if (err) console.warn('Error al votar:', err);
-    });
-    toast(delta > 0 ? '¡Voto positivo (online)!' : 'Voto negativo aplicado (online)');
-    // El render se disparará cuando llegue el evento 'value'
-  } else {
-    votos[profeId] = (votos[profeId] || 0) + delta;
-    save();
-    renderProfes();
-    renderRanking();
-    toast(delta > 0 ? '¡Voto positivo!' : 'Voto negativo aplicado');
-  }
+function votar(profeId, delta) {
+  if (!profeId) { console.warn('Sin ID de alumno'); return; }
+  if (!HAS_DB) { toast('⛔ Sin conexión a Firebase'); return; }
+
+  const path = (window.VOTOS_PATH || 'votos') + '/' + profeId;
+  window.db.ref(path).transaction(cur => {
+    const next = (cur || 0) + delta;
+    return next < 0 ? 0 : next;
+  }, (err, committed) => {
+    if (err || !committed) {
+      console.warn('Error al votar:', err);
+      toast('⚠️ No se pudo registrar el voto (permisos / conexión).');
+    }
+  });
 }
+
 
 // === Importar/Exportar/Reset ===
 function exportarVotos() {
