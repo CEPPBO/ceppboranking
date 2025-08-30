@@ -125,28 +125,42 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-database-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.3/firebase-auth-compat.js"></script>
+
   <script>
-   // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+  // ⚠️ Usa EXACTAMENTE los valores que te da Firebase en Project Settings.
+  // Ajusté storageBucket y agregué databaseURL. Confirmá el databaseURL en tu consola de Firebase.
+  window.__FIREBASE_CONFIG__ = {
+    apiKey: "AIzaSyAd4QlKtuoljtgc_feHLGlERJsxFC0V2pE",
+    authDomain: "votacionesweb-eafb8.firebaseapp.com",
+    databaseURL: "https://votacionesweb-eafb8-default-rtdb.firebaseio.com",
+    projectId: "votacionesweb-eafb8",
+    storageBucket: "votacionesweb-eafb8.appspot.com",
+    messagingSenderId: "1022368201228",
+    appId: "1:1022368201228:web:ebdd5c773fddec0df0cc29"
+    // measurementId es opcional y no hace falta para Realtime DB
+  };
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyAd4QlKtuoljtgc_feHLGlERJsxFC0V2pE",
-  authDomain: "votacionesweb-eafb8.firebaseapp.com",
-  projectId: "votacionesweb-eafb8",
-  storageBucket: "votacionesweb-eafb8.firebasestorage.app",
-  messagingSenderId: "1022368201228",
-  appId: "1:1022368201228:web:ebdd5c773fddec0df0cc29",
-  measurementId: "G-J6HH0PEBP4"
-};
+  (function(){
+    function isPlaceholder(cfg){
+      if (!cfg) return true;
+      const bad = v => typeof v==='string' && (
+        v.includes('TU_API_KEY') || v.includes('TU_PROJECT_ID') || v.includes('000000000000') || v.includes('xxxxxxxx')
+      );
+      return bad(cfg.apiKey) || bad(cfg.authDomain) || bad(cfg.databaseURL) || bad(cfg.projectId) || bad(cfg.appId);
+    }
+    try {
+      if (window.__FIREBASE_CONFIG__ && !isPlaceholder(window.__FIREBASE_CONFIG__)) {
+        const app = firebase.initializeApp(window.__FIREBASE_CONFIG__);
+        // 👇 ESTO es lo que mi app espera para el tiempo real:
+        window.db = firebase.database();
+        firebase.auth().signInAnonymously().catch(console.warn);
+        console.log("Firebase listo ✅");
+      } else {
+        console.warn("Config Firebase incompleta: usando modo local.");
+      }
+    } catch (e) { console.warn("Error iniciando Firebase:", e); }
+  })();
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
   </script>
 
   
@@ -188,6 +202,6 @@ const analytics = getAnalytics(app);
     </div>
   </div>
 
-  <script src="./cargar_alumnos.js"></script>
+
 </body>
 </html>
