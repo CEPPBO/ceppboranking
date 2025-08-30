@@ -1,14 +1,1041 @@
 [
   {
-    "id": "a_bareiro-fleitas-marcial-benjamin-primer-curso",
     "nombre": "BAREIRO FLEITAS, MARCIAL BENJAMIN",
-    "grado": "Primer Curso",
-    "materia": ""
+    "grado": "Primer Curso"
   },
   {
-    "id": "a_bogado-bareiro-johann-agustin-primer-curso",
     "nombre": "BOGADO BAREIRO, JOHANN AGUSTIN",
-    "grado": "Primer Curso",
-    "materia": ""
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "BRITEZ DUARTE, MELANYE MONSERRATH",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "BRITEZ SANCHEZ, MARIA ALEJANDRA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "CUELLAR MONTANIA, JORGE DANIEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "CUEVAS VERA, ALEXANDRO GABRIEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "CURI RODRIGUEZ, SILVIA NAHIARA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "DAVALOS LLANO, LUANA GABRIELA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "FERNANDEZ BRITEZ, ALEXANDER RAMON",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "FLEITAS RAMIREZ, CLARA NATALIA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "FRUTOS RIQUELME, ANNIA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "GODOY TORRES, CAMILA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "GOMEZ GONZALEZ, PAULINA MARIA DE LOURDES",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "GONZALEZ GONZALEZ, MARCOS RAFAEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "KALKUSKI GONZALEZ, LEONARDO FELIPE",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "MARIN RIVEROS, KAMIRYS LIZET",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "MEDINA FRETES, ANDRESSA FIORELLA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "NUÑEZ DÁVALOS, HIRÁM SANTIAGO",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "PARRA QUINTANA, ANGEL DAVID",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "PERALTA RIVAS, JULIETA ANABEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "RAMIREZ ACUÑA, MARIA MAITHE",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "RIVAS ALMADA, MILENA JAZMIN",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "SANCHEZ VAZQUEZ, JULIETA VALENTINA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "SILVERO GARCIA, HUGO FERNANDO",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "SILVERO MOLAS, OSCAR DANIEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "SOSA COLMAN, DANIEL JOSE",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "SUAREZ SAMANIEGO, MARIA SOFIA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "VERA ROLON, JOSE MANUEL",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "VERON ALVARENGA, FRANCIANNE SALOME",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "DOMINGUEZ VILLAMAYOR, MHIA KARINA",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "VILLAMAYOR GALEANO, CESAR NICOLAS",
+    "grado": "Primer Curso"
+  },
+  {
+    "nombre": "ALONSO LAVIOSA, FABIANA MONSERRATH",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "BARRIOS GIMENEZ, ABEL",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "CARDOZO DUARTE, LUNA MILAGROS",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "DE PAULO BERNARDE, MARIANA",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "DELGADO RAMIREZ, LIA VALENTINA",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "DOMINGUEZ GONZALEZ, LUANA ABIGAIL",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "DOMINGUEZ VALLEJOS, CHRISTIAN ALEXIS",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "ESPINOLA DIANA, MIA LUJAN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "FERNANDEZ CARDOZO, RODRIGO",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "FERNANDEZ SAMUDIO, THAMIRYS NICOLE",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "FLEITAS ALMIRON, DANIELA MONSERRAT",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "FLEITAS TORRES, ANDRES SEBASTIAN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "GALEANO TOLENTINO, DENIS WESLEI",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "GOMEZ GONZALEZ, ARACELI",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "LABEGALINI SERRANO, NABIL JOSE",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "LOVERA FRANCO, ALEJANDRO BENJAMIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MACIEL NOGUERA, DANIELA MAYBE",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MANCUELLO GOMEZ, KEVIN ISAAC",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MENDEZ AMARILLA, IGOR BENJAMIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MENDIETA LEGUIZAMON, MYLLENA MONTSERRATH",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MENDIETA RTIZ, DOMINGO AMIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "MONZON VILLALBA, CLARA GIOVANNA",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "ORTIZ RUIZ DIAZ, MILENA JAZMIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "PANIAGUA BRIZUELA, DOUGLAS FABRICIO",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "PANIAGUA VERA, CAMILA JAZMIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "SILVA ELGUE, MAURICIO DAVID",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "SILVERO ACUÑA, JORGE ALEXIS",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "SILVERO AYALA, FIORELLA ARAMI",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "SPEJYS GALEANO, RYAN ISAAC",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "TORRES MARTINEZ, LUCAS GIOVANNI",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "USHIRO KOBAYASHI, LUCAS AKIRA",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "VARELA AGUILERA, LUCAS DANIEL",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "VERA CANDIA, AYESA VALENTINA",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "VILLASBOA TECHEIRA, NATALYN LUJAN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "SAKAIZAWA, RIN",
+    "grado": "Segundo Curso"
+  },
+  {
+    "nombre": "ARCE VICENTIN, CAMILA GISELE",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "BENITEZ GIMENEZ, CAMILA BEATRIZ",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "BORDON FRUTOS JONATHAN DE JESUS",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "BRITEZ SANCHEZ, CIELO",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "DA SILVEIRA, LUANA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "DUARTE TRINIDAD, DAHIANA LUJAN",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "ESQUIVEL LEGUIZAMON, MILENA ABIGAIL",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "FRUTOS RIQUELME, ALAM",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "GARCIA BRITOS, ANA CLAUDIA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "GIMENEZ GONZALEZ, MALU ARAMI",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "GIMENEZ ORTELLADO, THIAGO RODRIGO",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "GODOY TORRES, ORLANDO MATIAS",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "JARA GONZALEZ, TIAGO MATHIAS",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "LOMBARDO OLMEDO, VIALMY THAINA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "LOPEZ LOPEZ, LUIS RODRIGO",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MALDONADO GODOY, IRIS CAMILA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MARTINEZ VERON, AMANDA LORENA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MARTINEZ BOGADO ALAN JOEL",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MARTINEZ GONZALEZ, PABLO RODRIGO",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MARTINEZ PERALTA, FIORELLA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MERELES GARCIA, LUCAS ADRIAN",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MONTANIA PEREZ, TALIA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MORAN LEGUIZAMON, MHIA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MOREIRA ORTIZ, MARCOS ANTONIO JOEL",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "MUJICA CÁCERES, CAMILA BERENICE",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "RAMIREZ LARROZA, MARIA GORETTI",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "RAMIREZ PINTOS, AYLEN ALEJANDRA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "ROJAS MUÑIVIGO, SUSY JANELI",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "SARQUIS GENES, JUAN JOSÉ",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "SILVA ELGUE, GIOVANNA MARIA LUISA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "TORALES VILLALBA, REBECCA PATCHOLI",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "VILLALBA HIDALGO, VINICIUS ISAIAS",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "VIVEROS MONTIEL, SOFIA MONTSERRAT",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "NUÑEZ SALINAS, HERNÁN",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "GIORGINO, GIULIA",
+    "grado": "Tercer Curso"
+  },
+  {
+    "nombre": "ARAGON VERONA, FABIO ENRIQUE",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "BALBUENA FRETES, MARIA CLAUDIA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "BORDON FRUTOS, NAYARA NICOLE",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "BRITEZ IRALA, LUIS FERNANDO",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "CABAÑAS GONZALEZ, LUIS ALEXANDER",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "CABAÑAS WARMLING, JAZMIN CAROLINE",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "CACERES ARCE, LARA MICAELA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "CHAMORRO PEREZ, AMILCAR TOBIAS",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "DA SILVA DE BRITO, LETICIA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "DE ALMEIDA PANIAGUA, MARIANA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "DE SOUZA, SHARON ABIGAIL",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "EIDINGER FAVOLE, VALENTINA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "EISING CORREA, BEATRIZ",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "ENCISO QUIÑONEZ, FIORELLA ANAHI",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "ESCOBAR FERREIRA, MARIA CAROLINA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GIMENEZ GONZALEZ, NAIME",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GODOY FRUTOS, CRISTIAN AMIN",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GOMEZ BURATO, AMAN GAEL",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GONZALEZ BOBEDA, FRANCIELI",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GONZALEZ GROFF, LUNARA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "GONZALEZ PESOA, NATHALY DE LOS ANGELES",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "LOMBARDO TAMARA VICENTINA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "MARTINEZ DEL SOL, CAROLINA MARIA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "MARTINEZ SAUCEDO, CARLOS SEBASTIAN",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "MELGAREJO OZUNA, LUZ MARINA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "MENDOZA MEZA, KEVIN GABRIEL",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "MUJICA GODOY, VICTOR MIGUEL",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "NUÑEZ BENITEZ, OCTAVIO DAVID",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "ORTIZ TEIXEIRA, ARAMI EMANUELA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "SANDES CANDIA, DAHIA NAHYR",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "SERVIAN CABAÑAS, ENZO BENJAMIN",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "SILVERO BRITEZ, SOL FABIELY",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "VALLEJOS LAVIOSA, MARIA FERNANDA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "VERA SORNAS, FELIX EDUARDO",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "VILLALBA ACOSTA, MARIA JULIA",
+    "grado": "Noveno"
+  },
+  {
+    "nombre": "ACOSTA VILLALBA, BRYAN DIONI",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ARMOA NOGUERA, JANET MONSERRATH",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "BAEZ SILVERO, LUZ MARIA ESTEFANI",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "CARVALHO SALOMAO, ANA JULIA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "DIAZ FLORENTIN, LAIDY MONSERRAT",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "DOS SANTOS PEREIRA, JULIANA VICTORIA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "DUARTE TRINIDAD, LUNA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "FRANCO MATTO, ALISON NAIHARA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "GONZALEZ MONTANIA, ANTONELlA BEATRIZ",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "JIMENEZ ORUE, VIVIAN MAGALY",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "LANERI VILLALBA, NAIARA FIORELLA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "LARREA PERALTA, NICOL VALENTINA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "MARTINEZ MENDEZ, MAIARA JAZMIN",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "MERELES TEME, RAISSA GIMENA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "PACUA GALEANO, AMAYA MARIA VICTORIA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "PINTOS BAREIRO, FIORELLA ELIZABETH",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "RECALDE IRALA, ANTONELLA BEATRIZ",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "SAMUDIO COCCO, MARIO RAFAEL",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "SARQUIS GENES, ANA SOFIA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "SILVERO FERNANDEZ, SAMIRA LUJAN",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "SPECJYS GALEANO, LARA CHARLOTTE",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "STANLEY AYALA, BETANIA ABIGAIL",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VILLALBA COLMAN, MILAGRO MARIA ISABELLA",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VILLAR VILLASBOA, ARABELA ROSE",
+    "grado": "Octavo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ACUÑA OLIVEIRA, NATALY KAUANY",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ARGUELLO OFRACIO DA SILVEIRA, KAUAN",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ARMOA VERGARA, ARSENIA FAVIOLA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BORDÓN CITRÓN, DAYARA LETICIA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BURGOS PATIÑO, JHORDAN FABIAN",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "CACERES GALEANO MIA MAITHE",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "CANDIA ROLON, ALEJANDRA BIANCA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "CHAPARRO GODOY, ROSA AYELEN",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DA COSTA DA SILVA, ISABELLA MARIAH",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DE PAULO BERNARDE, LARA FERNANDA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DIAZ VARGAS, FABRICIO ALEJANDRO",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ESPINOLA FERNANDEZ, NAYARA JAZMIN",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GIMENEZ GONZALEZ, SAHIRA FIORELLA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GONZALEZ AVEIRO, ANGEL GERNANDO",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "LABEGALINI SERRANO, ABNER LUIS",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "LEON RAMIREZ, NAZARENA PAZ",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "LOPEZ BARRIOS, ANA MONSERRAT",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MEINSER MEURER, MARIA HELENA",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MUÑOZ MARTINEZ, JESSICA AYLEN",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ORTIGOZA CACERES, GUILLERMO RENE",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "SANTACRUZ CACERES, NAHOMI MONSERRATH",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "SILVA ELGUE, THIAGO GIOVANNI",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "VILLALBA MACHUCA, CARMEN MAGALI",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ZARATE CUENCA, JAZMIN NAYELI",
+    "grado": "Octavo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ALONSO LAVIOSA, BIANCA BEATRIZ",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ALVAREZ GONZALEZ, EMILIO",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BARTOMEU PERALTA, YANINA ANAHI",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BENITEZ ARECO, RAHYANI VICTORIA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BENITEZ PINEDA, FELIX DANIEL",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "CENTURION DA SILVA, LUIZA TAWANY",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DAVALOS CENTURION, AGATHA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DAVALOS LLANO, RONAN GABRIEL",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "DUARTE FLEITAS, BRIAN ISSAC",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ESCOBAR MARIN, MARIA JOSE",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "FERNANDEZ SAMUDIO, BRENDA NATHALIE",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GALEANO ORTIZ, EMILY",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GAYOSO AQUINO, FELIPE NICOLAS",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GODOY GONZALEZ, ANA PAULA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GONZALEZ ORTIZ, NICOLY MONSERRATH",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "GONZALEZ RAMIREZ, ALVARO ADRIAN",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MACIEL NOGUERA, VIOLET THAIZ",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MEDINA FRETES, ZAHIRA MARGARITA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MENDIETA LEGUIZAMON, CECILIA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "MUSSO PRIETO, MIA ISSABELLA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "ROTELA CABAÑAS, RICARDO BENJAMIN",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "RUIZ DIAZ BRITOS, LIZ ROMINA",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "SANABRIA GOMEZ, ALCIDES ADRIAN",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "SOLABARRIETA GALEANO, GUILLERMO DANIEL",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "SOSA GIMENEZ, MILENA ARAMI",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "VILLALBA ARMOA, ARNALDO NICOLAS",
+    "grado": "Séptimo A",
+    "grupo": "A"
+  },
+  {
+    "nombre": "BRITEZ ORTEGA, HUBER MICAEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "CABAÑAS WARMLING, NICOLAS RYAN",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "CORONEL GAMARRA, JOSE SEBASTIAN",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "DENGATEN WILLERS, DIOGO FELIPE",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "DOS SANTOS, MATEOS",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ESCOBAR BENITEZ GONZALO JOSUE",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ESPINOLA DIANA JESÚS DANIEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ESPINOLA RODRIGUEZ, ERASMO",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "GARCIA GODOY, FIORELLA JAZMIN",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "GODOY BAEZ, EMILY ALELY",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "GONZALEZ JARA, ENMANUEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "MACIEL GAVILAN, LUIS SEBASTIAN",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "MOREIRA ORTIZ, DANNA FABISOL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "MUJICA, GIANCARLO KALEF",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "NASCIMENTO BARRETO, THAILA",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "PÁEZ MEDINA, ADAN FABRICIO",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "PEREIRA RODRIGUES, MARISOL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "RAMIREZ ARIAS, JIMENA",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "ROJAS MONTALVO, MATHIAS EMMANUEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "RUIZ CRISTALDO, PEDRO EZEQUIEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "RUIZ DIAZ LOPEZ, MILENA",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VALLEJOS MARTINEZ, LUCY MONSERRAT",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VARELA AGUILERA, BIANCA FIORELLA",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VILLALBA CACERES, CARLOS RAFAEL",
+    "grado": "Séptimo B",
+    "grupo": "B"
+  },
+  {
+    "nombre": "VIVEROS ARRUA, VIOLETA LUJÁN",
+    "grado": "Séptimo B",
+    "grupo": "B"
   }
 ]
