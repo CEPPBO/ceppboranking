@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "a_bareiro-fleitas-marcial-benjamin-primer-curso",
+    "nombre": "BAREIRO FLEITAS, MARCIAL BENJAMIN",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_bogado-bareiro-johann-agustin-primer-curso",
+    "nombre": "BOGADO BAREIRO, JOHANN AGUSTIN",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_britez-duarte-melanye-monserrath-primer-curso",
+    "nombre": "BRITEZ DUARTE, MELANYE MONSERRATH",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_britez-sanchez-maria-alejandra-primer-curso",
+    "nombre": "BRITEZ SANCHEZ, MARIA ALEJANDRA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_cuellar-montania-jorge-daniel-primer-curso",
+    "nombre": "CUELLAR MONTANIA, JORGE DANIEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_cuevas-vera-alexandro-gabriel-primer-curso",
+    "nombre": "CUEVAS VERA, ALEXANDRO GABRIEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_curi-rodriguez-silvia-nahiara-primer-curso",
+    "nombre": "CURI RODRIGUEZ, SILVIA NAHIARA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_davalos-llano-luana-gabriela-primer-curso",
+    "nombre": "DAVALOS LLANO, LUANA GABRIELA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fernandez-britez-alexander-ramon-primer-curso",
+    "nombre": "FERNANDEZ BRITEZ, ALEXANDER RAMON",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fleitas-ramirez-clara-natalia-primer-curso",
+    "nombre": "FLEITAS RAMIREZ, CLARA NATALIA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_frutos-riquelme-annia-primer-curso",
+    "nombre": "FRUTOS RIQUELME, ANNIA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_godoy-torres-camila-primer-curso",
+    "nombre": "GODOY TORRES, CAMILA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_gomez-gonzalez-paulina-maria-de-lourdes-primer-curso",
+    "nombre": "GOMEZ GONZALEZ, PAULINA MARIA DE LOURDES",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_gonzalez-gonzalez-marcos-rafael-primer-curso",
+    "nombre": "GONZALEZ GONZALEZ, MARCOS RAFAEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_kalkuski-gonzalez-leonardo-felipe-primer-curso",
+    "nombre": "KALKUSKI GONZALEZ, LEONARDO FELIPE",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_marin-riveros-kamirys-lizet-primer-curso",
+    "nombre": "MARIN RIVEROS, KAMIRYS LIZET",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_medina-fretes-andressa-fiorella-primer-curso",
+    "nombre": "MEDINA FRETES, ANDRESSA FIORELLA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_nunez-davalos-hiram-santiago-primer-curso",
+    "nombre": "NUÑEZ DÁVALOS, HIRÁM SANTIAGO",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_parra-quintana-angel-david-primer-curso",
+    "nombre": "PARRA QUINTANA, ANGEL DAVID",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_peralta-rivas-julieta-anabel-primer-curso",
+    "nombre": "PERALTA RIVAS, JULIETA ANABEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_ramirez-acuna-maria-maithe-primer-curso",
+    "nombre": "RAMIREZ ACUÑA, MARIA MAITHE",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_rivas-almada-milena-jazmin-primer-curso",
+    "nombre": "RIVAS ALMADA, MILENA JAZMIN",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_sanchez-vazquez-julieta-valentina-primer-curso",
+    "nombre": "SANCHEZ VAZQUEZ, JULIETA VALENTINA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silvero-garcia-hugo-fernando-primer-curso",
+    "nombre": "SILVERO GARCIA, HUGO FERNANDO",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silvero-molas-oscar-daniel-primer-curso",
+    "nombre": "SILVERO MOLAS, OSCAR DANIEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_sosa-colman-daniel-jose-primer-curso",
+    "nombre": "SOSA COLMAN, DANIEL JOSE",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_suarez-samaniego-maria-sofia-primer-curso",
+    "nombre": "SUAREZ SAMANIEGO, MARIA SOFIA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_vera-rolon-jose-manuel-primer-curso",
+    "nombre": "VERA ROLON, JOSE MANUEL",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_veron-alvarenga-francianne-salome-primer-curso",
+    "nombre": "VERON ALVARENGA, FRANCIANNE SALOME",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_dominguez-villamayor-mhia-karina-primer-curso",
+    "nombre": "DOMINGUEZ VILLAMAYOR, MHIA KARINA",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_villamayor-galeano-cesar-nicolas-primer-curso",
+    "nombre": "VILLAMAYOR GALEANO, CESAR NICOLAS",
+    "grado": "Primer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_alonso-laviosa-fabiana-monserrath-segundo-curso",
+    "nombre": "ALONSO LAVIOSA, FABIANA MONSERRATH",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_barrios-gimenez-abel-segundo-curso",
+    "nombre": "BARRIOS GIMENEZ, ABEL",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_cardozo-duarte-luna-milagros-segundo-curso",
+    "nombre": "CARDOZO DUARTE, LUNA MILAGROS",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_de-paulo-bernarde-mariana-segundo-curso",
+    "nombre": "DE PAULO BERNARDE, MARIANA",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_delgado-ramirez-lia-valentina-segundo-curso",
+    "nombre": "DELGADO RAMIREZ, LIA VALENTINA",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_dominguez-gonzalez-luana-abigail-segundo-curso",
+    "nombre": "DOMINGUEZ GONZALEZ, LUANA ABIGAIL",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_dominguez-vallejos-christian-alexis-segundo-curso",
+    "nombre": "DOMINGUEZ VALLEJOS, CHRISTIAN ALEXIS",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_espinola-diana-mia-lujan-segundo-curso",
+    "nombre": "ESPINOLA DIANA, MIA LUJAN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fernandez-cardozo-rodrigo-segundo-curso",
+    "nombre": "FERNANDEZ CARDOZO, RODRIGO",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fernandez-samudio-thamirys-nicole-segundo-curso",
+    "nombre": "FERNANDEZ SAMUDIO, THAMIRYS NICOLE",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fleitas-almiron-daniela-monserrat-segundo-curso",
+    "nombre": "FLEITAS ALMIRON, DANIELA MONSERRAT",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_fleitas-torres-andres-sebastian-segundo-curso",
+    "nombre": "FLEITAS TORRES, ANDRES SEBASTIAN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_galeano-tolentino-denis-weslei-segundo-curso",
+    "nombre": "GALEANO TOLENTINO, DENIS WESLEI",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_gomez-gonzalez-araceli-segundo-curso",
+    "nombre": "GOMEZ GONZALEZ, ARACELI",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_labegalini-serrano-nabil-jose-segundo-curso",
+    "nombre": "LABEGALINI SERRANO, NABIL JOSE",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_lovera-franco-alejandro-benjamin-segundo-curso",
+    "nombre": "LOVERA FRANCO, ALEJANDRO BENJAMIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_maciel-noguera-daniela-maybe-segundo-curso",
+    "nombre": "MACIEL NOGUERA, DANIELA MAYBE",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mancuello-gomez-kevin-isaac-segundo-curso",
+    "nombre": "MANCUELLO GOMEZ, KEVIN ISAAC",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mendez-amarilla-igor-benjamin-segundo-curso",
+    "nombre": "MENDEZ AMARILLA, IGOR BENJAMIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mendieta-leguizamon-myllena-montserrath-segundo-curso",
+    "nombre": "MENDIETA LEGUIZAMON, MYLLENA MONTSERRATH",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mendieta-rtiz-domingo-amin-segundo-curso",
+    "nombre": "MENDIETA RTIZ, DOMINGO AMIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_monzon-villalba-clara-giovanna-segundo-curso",
+    "nombre": "MONZON VILLALBA, CLARA GIOVANNA",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_ortiz-ruiz-diaz-milena-jazmin-segundo-curso",
+    "nombre": "ORTIZ RUIZ DIAZ, MILENA JAZMIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_paniagua-brizuela-douglas-fabricio-segundo-curso",
+    "nombre": "PANIAGUA BRIZUELA, DOUGLAS FABRICIO",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_paniagua-vera-camila-jazmin-segundo-curso",
+    "nombre": "PANIAGUA VERA, CAMILA JAZMIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silva-elgue-mauricio-david-segundo-curso",
+    "nombre": "SILVA ELGUE, MAURICIO DAVID",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silvero-acuna-jorge-alexis-segundo-curso",
+    "nombre": "SILVERO ACUÑA, JORGE ALEXIS",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silvero-ayala-fiorella-arami-segundo-curso",
+    "nombre": "SILVERO AYALA, FIORELLA ARAMI",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_spejys-galeano-ryan-isaac-segundo-curso",
+    "nombre": "SPEJYS GALEANO, RYAN ISAAC",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_torres-martinez-lucas-giovanni-segundo-curso",
+    "nombre": "TORRES MARTINEZ, LUCAS GIOVANNI",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_ushiro-kobayashi-lucas-akira-segundo-curso",
+    "nombre": "USHIRO KOBAYASHI, LUCAS AKIRA",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_varela-aguilera-lucas-daniel-segundo-curso",
+    "nombre": "VARELA AGUILERA, LUCAS DANIEL",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_vera-candia-ayesa-valentina-segundo-curso",
+    "nombre": "VERA CANDIA, AYESA VALENTINA",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_villasboa-techeira-natalyn-lujan-segundo-curso",
+    "nombre": "VILLASBOA TECHEIRA, NATALYN LUJAN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_sakaizawa-rin-segundo-curso",
+    "nombre": "SAKAIZAWA, RIN",
+    "grado": "Segundo Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_arce-vicentin-camila-gisele-tercer-curso",
+    "nombre": "ARCE VICENTIN, CAMILA GISELE",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_benitez-gimenez-camila-beatriz-tercer-curso",
+    "nombre": "BENITEZ GIMENEZ, CAMILA BEATRIZ",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_bordon-frutos-jonathan-de-jesus-tercer-curso",
+    "nombre": "BORDON FRUTOS JONATHAN DE JESUS",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_britez-sanchez-cielo-tercer-curso",
+    "nombre": "BRITEZ SANCHEZ, CIELO",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_da-silveira-luana-tercer-curso",
+    "nombre": "DA SILVEIRA, LUANA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_duarte-trinidad-dahiana-lujan-tercer-curso",
+    "nombre": "DUARTE TRINIDAD, DAHIANA LUJAN",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_esquivel-leguizamon-milena-abigail-tercer-curso",
+    "nombre": "ESQUIVEL LEGUIZAMON, MILENA ABIGAIL",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_frutos-riquelme-alam-tercer-curso",
+    "nombre": "FRUTOS RIQUELME, ALAM",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_garcia-britos-ana-claudia-tercer-curso",
+    "nombre": "GARCIA BRITOS, ANA CLAUDIA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_gimenez-gonzalez-malu-arami-tercer-curso",
+    "nombre": "GIMENEZ GONZALEZ, MALU ARAMI",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_gimenez-ortellado-thiago-rodrigo-tercer-curso",
+    "nombre": "GIMENEZ ORTELLADO, THIAGO RODRIGO",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_godoy-torres-orlando-matias-tercer-curso",
+    "nombre": "GODOY TORRES, ORLANDO MATIAS",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_jara-gonzalez-tiago-mathias-tercer-curso",
+    "nombre": "JARA GONZALEZ, TIAGO MATHIAS",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_lombardo-olmedo-vialmy-thaina-tercer-curso",
+    "nombre": "LOMBARDO OLMEDO, VIALMY THAINA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_lopez-lopez-luis-rodrigo-tercer-curso",
+    "nombre": "LOPEZ LOPEZ, LUIS RODRIGO",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_maldonado-godoy-iris-camila-tercer-curso",
+    "nombre": "MALDONADO GODOY, IRIS CAMILA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-veron-amanda-lorena-tercer-curso",
+    "nombre": "MARTINEZ VERON, AMANDA LORENA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-bogado-alan-joel-tercer-curso",
+    "nombre": "MARTINEZ BOGADO ALAN JOEL",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-gonzalez-pablo-rodrigo-tercer-curso",
+    "nombre": "MARTINEZ GONZALEZ, PABLO RODRIGO",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-peralta-fiorella-tercer-curso",
+    "nombre": "MARTINEZ PERALTA, FIORELLA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mereles-garcia-lucas-adrian-tercer-curso",
+    "nombre": "MERELES GARCIA, LUCAS ADRIAN",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_montania-perez-talia-tercer-curso",
+    "nombre": "MONTANIA PEREZ, TALIA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_moran-leguizamon-mhia-tercer-curso",
+    "nombre": "MORAN LEGUIZAMON, MHIA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_moreira-ortiz-marcos-antonio-joel-tercer-curso",
+    "nombre": "MOREIRA ORTIZ, MARCOS ANTONIO JOEL",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_mujica-caceres-camila-berenice-tercer-curso",
+    "nombre": "MUJICA CÁCERES, CAMILA BERENICE",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_ramirez-larroza-maria-goretti-tercer-curso",
+    "nombre": "RAMIREZ LARROZA, MARIA GORETTI",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_ramirez-pintos-aylen-alejandra-tercer-curso",
+    "nombre": "RAMIREZ PINTOS, AYLEN ALEJANDRA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_rojas-munivigo-susy-janeli-tercer-curso",
+    "nombre": "ROJAS MUÑIVIGO, SUSY JANELI",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_sarquis-genes-juan-jose-tercer-curso",
+    "nombre": "SARQUIS GENES, JUAN JOSÉ",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_silva-elgue-giovanna-maria-luisa-tercer-curso",
+    "nombre": "SILVA ELGUE, GIOVANNA MARIA LUISA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_torales-villalba-rebecca-patcholi-tercer-curso",
+    "nombre": "TORALES VILLALBA, REBECCA PATCHOLI",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_villalba-hidalgo-vinicius-isaias-tercer-curso",
+    "nombre": "VILLALBA HIDALGO, VINICIUS ISAIAS",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_viveros-montiel-sofia-montserrat-tercer-curso",
+    "nombre": "VIVEROS MONTIEL, SOFIA MONTSERRAT",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_nunez-salinas-hernan-tercer-curso",
+    "nombre": "NUÑEZ SALINAS, HERNÁN",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_giorgino-giulia-tercer-curso",
+    "nombre": "GIORGINO, GIULIA",
+    "grado": "Tercer Curso",
+    "materia": ""
+  },
+  {
+    "id": "a_aragon-verona-fabio-enrique-noveno",
+    "nombre": "ARAGON VERONA, FABIO ENRIQUE",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_balbuena-fretes-maria-claudia-noveno",
+    "nombre": "BALBUENA FRETES, MARIA CLAUDIA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_bordon-frutos-nayara-nicole-noveno",
+    "nombre": "BORDON FRUTOS, NAYARA NICOLE",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_britez-irala-luis-fernando-noveno",
+    "nombre": "BRITEZ IRALA, LUIS FERNANDO",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_cabanas-gonzalez-luis-alexander-noveno",
+    "nombre": "CABAÑAS GONZALEZ, LUIS ALEXANDER",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_cabanas-warmling-jazmin-caroline-noveno",
+    "nombre": "CABAÑAS WARMLING, JAZMIN CAROLINE",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_caceres-arce-lara-micaela-noveno",
+    "nombre": "CACERES ARCE, LARA MICAELA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_chamorro-perez-amilcar-tobias-noveno",
+    "nombre": "CHAMORRO PEREZ, AMILCAR TOBIAS",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_da-silva-de-brito-leticia-noveno",
+    "nombre": "DA SILVA DE BRITO, LETICIA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_de-almeida-paniagua-mariana-noveno",
+    "nombre": "DE ALMEIDA PANIAGUA, MARIANA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_de-souza-sharon-abigail-noveno",
+    "nombre": "DE SOUZA, SHARON ABIGAIL",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_eidinger-favole-valentina-noveno",
+    "nombre": "EIDINGER FAVOLE, VALENTINA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_eising-correa-beatriz-noveno",
+    "nombre": "EISING CORREA, BEATRIZ",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_enciso-quinonez-fiorella-anahi-noveno",
+    "nombre": "ENCISO QUIÑONEZ, FIORELLA ANAHI",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_escobar-ferreira-maria-carolina-noveno",
+    "nombre": "ESCOBAR FERREIRA, MARIA CAROLINA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_gimenez-gonzalez-naime-noveno",
+    "nombre": "GIMENEZ GONZALEZ, NAIME",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_godoy-frutos-cristian-amin-noveno",
+    "nombre": "GODOY FRUTOS, CRISTIAN AMIN",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_gomez-burato-aman-gael-noveno",
+    "nombre": "GOMEZ BURATO, AMAN GAEL",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_gonzalez-bobeda-francieli-noveno",
+    "nombre": "GONZALEZ BOBEDA, FRANCIELI",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_gonzalez-groff-lunara-noveno",
+    "nombre": "GONZALEZ GROFF, LUNARA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_gonzalez-pesoa-nathaly-de-los-angeles-noveno",
+    "nombre": "GONZALEZ PESOA, NATHALY DE LOS ANGELES",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_lombardo-tamara-vicentina-noveno",
+    "nombre": "LOMBARDO TAMARA VICENTINA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-del-sol-carolina-maria-noveno",
+    "nombre": "MARTINEZ DEL SOL, CAROLINA MARIA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_martinez-saucedo-carlos-sebastian-noveno",
+    "nombre": "MARTINEZ SAUCEDO, CARLOS SEBASTIAN",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_melgarejo-ozuna-luz-marina-noveno",
+    "nombre": "MELGAREJO OZUNA, LUZ MARINA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_mendoza-meza-kevin-gabriel-noveno",
+    "nombre": "MENDOZA MEZA, KEVIN GABRIEL",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_mujica-godoy-victor-miguel-noveno",
+    "nombre": "MUJICA GODOY, VICTOR MIGUEL",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_nunez-benitez-octavio-david-noveno",
+    "nombre": "NUÑEZ BENITEZ, OCTAVIO DAVID",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_ortiz-teixeira-arami-emanuela-noveno",
+    "nombre": "ORTIZ TEIXEIRA, ARAMI EMANUELA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_sandes-candia-dahia-nahyr-noveno",
+    "nombre": "SANDES CANDIA, DAHIA NAHYR",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_servian-cabanas-enzo-benjamin-noveno",
+    "nombre": "SERVIAN CABAÑAS, ENZO BENJAMIN",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_silvero-britez-sol-fabiely-noveno",
+    "nombre": "SILVERO BRITEZ, SOL FABIELY",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_vallejos-laviosa-maria-fernanda-noveno",
+    "nombre": "VALLEJOS LAVIOSA, MARIA FERNANDA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_vera-sornas-felix-eduardo-noveno",
+    "nombre": "VERA SORNAS, FELIX EDUARDO",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_villalba-acosta-maria-julia-noveno",
+    "nombre": "VILLALBA ACOSTA, MARIA JULIA",
+    "grado": "Noveno",
+    "materia": ""
+  },
+  {
+    "id": "a_acosta-villalba-bryan-dioni-octavo-b-b",
+    "nombre": "ACOSTA VILLALBA, BRYAN DIONI",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_armoa-noguera-janet-monserrath-octavo-b-b",
+    "nombre": "ARMOA NOGUERA, JANET MONSERRATH",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_baez-silvero-luz-maria-estefani-octavo-b-b",
+    "nombre": "BAEZ SILVERO, LUZ MARIA ESTEFANI",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_carvalho-salomao-ana-julia-octavo-b-b",
+    "nombre": "CARVALHO SALOMAO, ANA JULIA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_diaz-florentin-laidy-monserrat-octavo-b-b",
+    "nombre": "DIAZ FLORENTIN, LAIDY MONSERRAT",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_dos-santos-pereira-juliana-victoria-octavo-b-b",
+    "nombre": "DOS SANTOS PEREIRA, JULIANA VICTORIA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_duarte-trinidad-luna-octavo-b-b",
+    "nombre": "DUARTE TRINIDAD, LUNA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_franco-matto-alison-naihara-octavo-b-b",
+    "nombre": "FRANCO MATTO, ALISON NAIHARA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_gonzalez-montania-antonella-beatriz-octavo-b-b",
+    "nombre": "GONZALEZ MONTANIA, ANTONELlA BEATRIZ",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_jimenez-orue-vivian-magaly-octavo-b-b",
+    "nombre": "JIMENEZ ORUE, VIVIAN MAGALY",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_laneri-villalba-naiara-fiorella-octavo-b-b",
+    "nombre": "LANERI VILLALBA, NAIARA FIORELLA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_larrea-peralta-nicol-valentina-octavo-b-b",
+    "nombre": "LARREA PERALTA, NICOL VALENTINA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_martinez-mendez-maiara-jazmin-octavo-b-b",
+    "nombre": "MARTINEZ MENDEZ, MAIARA JAZMIN",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_mereles-teme-raissa-gimena-octavo-b-b",
+    "nombre": "MERELES TEME, RAISSA GIMENA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_pacua-galeano-amaya-maria-victoria-octavo-b-b",
+    "nombre": "PACUA GALEANO, AMAYA MARIA VICTORIA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_pintos-bareiro-fiorella-elizabeth-octavo-b-b",
+    "nombre": "PINTOS BAREIRO, FIORELLA ELIZABETH",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_recalde-irala-antonella-beatriz-octavo-b-b",
+    "nombre": "RECALDE IRALA, ANTONELLA BEATRIZ",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_samudio-cocco-mario-rafael-octavo-b-b",
+    "nombre": "SAMUDIO COCCO, MARIO RAFAEL",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_sarquis-genes-ana-sofia-octavo-b-b",
+    "nombre": "SARQUIS GENES, ANA SOFIA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_silvero-fernandez-samira-lujan-octavo-b-b",
+    "nombre": "SILVERO FERNANDEZ, SAMIRA LUJAN",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_specjys-galeano-lara-charlotte-octavo-b-b",
+    "nombre": "SPECJYS GALEANO, LARA CHARLOTTE",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_stanley-ayala-betania-abigail-octavo-b-b",
+    "nombre": "STANLEY AYALA, BETANIA ABIGAIL",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_villalba-colman-milagro-maria-isabella-octavo-b-b",
+    "nombre": "VILLALBA COLMAN, MILAGRO MARIA ISABELLA",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_villar-villasboa-arabela-rose-octavo-b-b",
+    "nombre": "VILLAR VILLASBOA, ARABELA ROSE",
+    "grado": "Octavo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_acuna-oliveira-nataly-kauany-octavo-a-a",
+    "nombre": "ACUÑA OLIVEIRA, NATALY KAUANY",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_arguello-ofracio-da-silveira-kauan-octavo-a-a",
+    "nombre": "ARGUELLO OFRACIO DA SILVEIRA, KAUAN",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_armoa-vergara-arsenia-faviola-octavo-a-a",
+    "nombre": "ARMOA VERGARA, ARSENIA FAVIOLA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_bordon-citron-dayara-leticia-octavo-a-a",
+    "nombre": "BORDÓN CITRÓN, DAYARA LETICIA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_burgos-patino-jhordan-fabian-octavo-a-a",
+    "nombre": "BURGOS PATIÑO, JHORDAN FABIAN",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_caceres-galeano-mia-maithe-octavo-a-a",
+    "nombre": "CACERES GALEANO MIA MAITHE",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_candia-rolon-alejandra-bianca-octavo-a-a",
+    "nombre": "CANDIA ROLON, ALEJANDRA BIANCA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_chaparro-godoy-rosa-ayelen-octavo-a-a",
+    "nombre": "CHAPARRO GODOY, ROSA AYELEN",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_da-costa-da-silva-isabella-mariah-octavo-a-a",
+    "nombre": "DA COSTA DA SILVA, ISABELLA MARIAH",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_de-paulo-bernarde-lara-fernanda-octavo-a-a",
+    "nombre": "DE PAULO BERNARDE, LARA FERNANDA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_diaz-vargas-fabricio-alejandro-octavo-a-a",
+    "nombre": "DIAZ VARGAS, FABRICIO ALEJANDRO",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_espinola-fernandez-nayara-jazmin-octavo-a-a",
+    "nombre": "ESPINOLA FERNANDEZ, NAYARA JAZMIN",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_gimenez-gonzalez-sahira-fiorella-octavo-a-a",
+    "nombre": "GIMENEZ GONZALEZ, SAHIRA FIORELLA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_gonzalez-aveiro-angel-gernando-octavo-a-a",
+    "nombre": "GONZALEZ AVEIRO, ANGEL GERNANDO",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_labegalini-serrano-abner-luis-octavo-a-a",
+    "nombre": "LABEGALINI SERRANO, ABNER LUIS",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_leon-ramirez-nazarena-paz-octavo-a-a",
+    "nombre": "LEON RAMIREZ, NAZARENA PAZ",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_lopez-barrios-ana-monserrat-octavo-a-a",
+    "nombre": "LOPEZ BARRIOS, ANA MONSERRAT",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_meinser-meurer-maria-helena-octavo-a-a",
+    "nombre": "MEINSER MEURER, MARIA HELENA",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_munoz-martinez-jessica-aylen-octavo-a-a",
+    "nombre": "MUÑOZ MARTINEZ, JESSICA AYLEN",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_ortigoza-caceres-guillermo-rene-octavo-a-a",
+    "nombre": "ORTIGOZA CACERES, GUILLERMO RENE",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_santacruz-caceres-nahomi-monserrath-octavo-a-a",
+    "nombre": "SANTACRUZ CACERES, NAHOMI MONSERRATH",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_silva-elgue-thiago-giovanni-octavo-a-a",
+    "nombre": "SILVA ELGUE, THIAGO GIOVANNI",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_villalba-machuca-carmen-magali-octavo-a-a",
+    "nombre": "VILLALBA MACHUCA, CARMEN MAGALI",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_zarate-cuenca-jazmin-nayeli-octavo-a-a",
+    "nombre": "ZARATE CUENCA, JAZMIN NAYELI",
+    "grado": "Octavo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_alonso-laviosa-bianca-beatriz-septimo-a-a",
+    "nombre": "ALONSO LAVIOSA, BIANCA BEATRIZ",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_alvarez-gonzalez-emilio-septimo-a-a",
+    "nombre": "ALVAREZ GONZALEZ, EMILIO",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_bartomeu-peralta-yanina-anahi-septimo-a-a",
+    "nombre": "BARTOMEU PERALTA, YANINA ANAHI",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_benitez-areco-rahyani-victoria-septimo-a-a",
+    "nombre": "BENITEZ ARECO, RAHYANI VICTORIA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_benitez-pineda-felix-daniel-septimo-a-a",
+    "nombre": "BENITEZ PINEDA, FELIX DANIEL",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_centurion-da-silva-luiza-tawany-septimo-a-a",
+    "nombre": "CENTURION DA SILVA, LUIZA TAWANY",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_davalos-centurion-agatha-septimo-a-a",
+    "nombre": "DAVALOS CENTURION, AGATHA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_davalos-llano-ronan-gabriel-septimo-a-a",
+    "nombre": "DAVALOS LLANO, RONAN GABRIEL",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_duarte-fleitas-brian-issac-septimo-a-a",
+    "nombre": "DUARTE FLEITAS, BRIAN ISSAC",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_escobar-marin-maria-jose-septimo-a-a",
+    "nombre": "ESCOBAR MARIN, MARIA JOSE",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_fernandez-samudio-brenda-nathalie-septimo-a-a",
+    "nombre": "FERNANDEZ SAMUDIO, BRENDA NATHALIE",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_galeano-ortiz-emily-septimo-a-a",
+    "nombre": "GALEANO ORTIZ, EMILY",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_gayoso-aquino-felipe-nicolas-septimo-a-a",
+    "nombre": "GAYOSO AQUINO, FELIPE NICOLAS",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_godoy-gonzalez-ana-paula-septimo-a-a",
+    "nombre": "GODOY GONZALEZ, ANA PAULA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_gonzalez-ortiz-nicoly-monserrath-septimo-a-a",
+    "nombre": "GONZALEZ ORTIZ, NICOLY MONSERRATH",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_gonzalez-ramirez-alvaro-adrian-septimo-a-a",
+    "nombre": "GONZALEZ RAMIREZ, ALVARO ADRIAN",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_maciel-noguera-violet-thaiz-septimo-a-a",
+    "nombre": "MACIEL NOGUERA, VIOLET THAIZ",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_medina-fretes-zahira-margarita-septimo-a-a",
+    "nombre": "MEDINA FRETES, ZAHIRA MARGARITA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_mendieta-leguizamon-cecilia-septimo-a-a",
+    "nombre": "MENDIETA LEGUIZAMON, CECILIA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_musso-prieto-mia-issabella-septimo-a-a",
+    "nombre": "MUSSO PRIETO, MIA ISSABELLA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_rotela-cabanas-ricardo-benjamin-septimo-a-a",
+    "nombre": "ROTELA CABAÑAS, RICARDO BENJAMIN",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_ruiz-diaz-britos-liz-romina-septimo-a-a",
+    "nombre": "RUIZ DIAZ BRITOS, LIZ ROMINA",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_sanabria-gomez-alcides-adrian-septimo-a-a",
+    "nombre": "SANABRIA GOMEZ, ALCIDES ADRIAN",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_solabarrieta-galeano-guillermo-daniel-septimo-a-a",
+    "nombre": "SOLABARRIETA GALEANO, GUILLERMO DANIEL",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_sosa-gimenez-milena-arami-septimo-a-a",
+    "nombre": "SOSA GIMENEZ, MILENA ARAMI",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_villalba-armoa-arnaldo-nicolas-septimo-a-a",
+    "nombre": "VILLALBA ARMOA, ARNALDO NICOLAS",
+    "grado": "Séptimo A",
+    "materia": "A"
+  },
+  {
+    "id": "a_britez-ortega-huber-micael-septimo-b-b",
+    "nombre": "BRITEZ ORTEGA, HUBER MICAEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_cabanas-warmling-nicolas-ryan-septimo-b-b",
+    "nombre": "CABAÑAS WARMLING, NICOLAS RYAN",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_coronel-gamarra-jose-sebastian-septimo-b-b",
+    "nombre": "CORONEL GAMARRA, JOSE SEBASTIAN",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_dengaten-willers-diogo-felipe-septimo-b-b",
+    "nombre": "DENGATEN WILLERS, DIOGO FELIPE",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_dos-santos-mateos-septimo-b-b",
+    "nombre": "DOS SANTOS, MATEOS",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_escobar-benitez-gonzalo-josue-septimo-b-b",
+    "nombre": "ESCOBAR BENITEZ GONZALO JOSUE",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_espinola-diana-jesus-daniel-septimo-b-b",
+    "nombre": "ESPINOLA DIANA JESÚS DANIEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_espinola-rodriguez-erasmo-septimo-b-b",
+    "nombre": "ESPINOLA RODRIGUEZ, ERASMO",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_garcia-godoy-fiorella-jazmin-septimo-b-b",
+    "nombre": "GARCIA GODOY, FIORELLA JAZMIN",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_godoy-baez-emily-alely-septimo-b-b",
+    "nombre": "GODOY BAEZ, EMILY ALELY",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_gonzalez-jara-enmanuel-septimo-b-b",
+    "nombre": "GONZALEZ JARA, ENMANUEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_maciel-gavilan-luis-sebastian-septimo-b-b",
+    "nombre": "MACIEL GAVILAN, LUIS SEBASTIAN",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_moreira-ortiz-danna-fabisol-septimo-b-b",
+    "nombre": "MOREIRA ORTIZ, DANNA FABISOL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_mujica-giancarlo-kalef-septimo-b-b",
+    "nombre": "MUJICA, GIANCARLO KALEF",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_nascimento-barreto-thaila-septimo-b-b",
+    "nombre": "NASCIMENTO BARRETO, THAILA",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_paez-medina-adan-fabricio-septimo-b-b",
+    "nombre": "PÁEZ MEDINA, ADAN FABRICIO",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_pereira-rodrigues-marisol-septimo-b-b",
+    "nombre": "PEREIRA RODRIGUES, MARISOL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_ramirez-arias-jimena-septimo-b-b",
+    "nombre": "RAMIREZ ARIAS, JIMENA",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_rojas-montalvo-mathias-emmanuel-septimo-b-b",
+    "nombre": "ROJAS MONTALVO, MATHIAS EMMANUEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_ruiz-cristaldo-pedro-ezequiel-septimo-b-b",
+    "nombre": "RUIZ CRISTALDO, PEDRO EZEQUIEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_ruiz-diaz-lopez-milena-septimo-b-b",
+    "nombre": "RUIZ DIAZ LOPEZ, MILENA",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_vallejos-martinez-lucy-monserrat-septimo-b-b",
+    "nombre": "VALLEJOS MARTINEZ, LUCY MONSERRAT",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_varela-aguilera-bianca-fiorella-septimo-b-b",
+    "nombre": "VARELA AGUILERA, BIANCA FIORELLA",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_villalba-caceres-carlos-rafael-septimo-b-b",
+    "nombre": "VILLALBA CACERES, CARLOS RAFAEL",
+    "grado": "Séptimo B",
+    "materia": "B"
+  },
+  {
+    "id": "a_viveros-arrua-violeta-lujan-septimo-b-b",
+    "nombre": "VIVEROS ARRUA, VIOLETA LUJÁN",
+    "grado": "Séptimo B",
+    "materia": "B"
+  }
+]
